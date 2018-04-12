@@ -1,0 +1,141 @@
+mouse left down,Search the web and Windows,332,748,4.26,1523536695.3563519
+mouse left up,Search the web and Windows,332,748,4.39,1523536695.4914901
+key down,Cortana,H,5.56,1523536696.6616237
+key down,Cortana,E,5.69,1523536696.7847204
+key down,Cortana,L,5.88,1523536696.979876
+key down,Cortana,L,6.04,1523536697.1409953
+key down,Cortana,O,6.23,1523536697.3327372
+key down,Cortana,Return,8.49,1523536699.585627
+key down,hello - Notepad,Lcontrol,11.67,1523536702.7679276
+key down,hello - Notepad,Lcontrol,12.17,1523536703.2741857
+key down,hello - Notepad,Lcontrol,12.21,1523536703.3060281
+key down,hello - Notepad,Lcontrol,12.24,1523536703.3376703
+key down,hello - Notepad,Lcontrol,12.27,1523536703.3709822
+key down,hello - Notepad,Lcontrol,12.3,1523536703.402845
+key down,hello - Notepad,H,12.32,1523536703.420903
+key down,Replace,C,13.96,1523536705.0571206
+key down,Replace,N,14.29,1523536705.392956
+key down,Replace,A,14.46,1523536705.5639079
+key down,Replace,M,14.61,1523536705.7113206
+key down,Replace,E,14.81,1523536705.9134734
+key down,Replace,Tab,15.6,1523536706.7002048
+key down,Replace,O,16.5,1523536707.5946543
+key down,Replace,P,16.74,1523536707.8353713
+key down,Replace,T,17.03,1523536708.1247034
+key down,Replace,I,17.43,1523536708.5282671
+key down,Replace,S,17.75,1523536708.848045
+key down,Replace,O,17.86,1523536708.9576523
+key down,Replace,L,18.12,1523536709.2212298
+key down,Replace,Tab,19.03,1523536710.1321197
+key down,Replace,Tab,19.64,1523536710.7360806
+key down,Replace,Tab,20.17,1523536711.2684157
+key down,Replace,Return,23.09,1523536714.1855485
+key down,Replace,Return,24.49,1523536715.5945046
+key down,Notepad,Return,27.62,1523536718.7151134
+key down,Replace,Tab,29.97,1523536721.0726485
+key down,Replace,Tab,30.97,1523536722.0683012
+key down,Replace,Tab,31.41,1523536722.5098147
+key down,Replace,C,32.87,1523536723.9675577
+key down,Replace,D,33.13,1523536724.2330298
+key down,Replace,A,33.49,1523536724.5926938
+key down,Replace,T,33.82,1523536724.916235
+key down,Replace,E,33.98,1523536725.0788991
+key down,Replace,Tab,34.51,1523536725.6086602
+key down,Replace,Lshift,35.21,1523536726.3073394
+key down,Replace,A,35.37,1523536726.4707186
+key down,Replace,P,35.6,1523536726.7022152
+key down,Replace,R,35.87,1523536726.969624
+key down,Replace,I,36.01,1523536727.1122491
+key down,Replace,L,36.2,1523536727.3015501
+key down,Replace,Space,37.8,1523536728.8954809
+key down,Replace,Numpad2,38.73,1523536729.828497
+key down,Replace,Numpad0,38.9,1523536729.997967
+key down,Replace,Numpad1,39.15,1523536730.2544162
+key down,Replace,Numpad8,39.5,1523536730.5988948
+key down,Replace,Tab,40.35,1523536731.448427
+key down,Replace,Tab,40.67,1523536731.7712927
+key down,Replace,Tab,40.97,1523536732.0695298
+key down,Replace,Tab,41.36,1523536732.4613602
+key down,Replace,Return,42.3,1523536733.39879
+key down,Replace,Tab,43.79,1523536734.8853137
+key down,Replace,Tab,44.13,1523536735.226091
+key down,Replace,C,45.93,1523536737.0341988
+key down,Replace,A,46.34,1523536737.4385643
+key down,Replace,M,46.5,1523536737.5949466
+key down,Replace,O,47.13,1523536738.225631
+key down,Replace,U,47.35,1523536738.449847
+key down,Replace,N,47.62,1523536738.7233512
+key down,Replace,T,48.02,1523536739.1192358
+key down,Replace,Tab,48.46,1523536739.5588603
+key down,Replace,Numpad1,50.31,1523536741.4129875
+key down,Replace,Numpad0,50.58,1523536741.6752114
+key down,Replace,Numpad0,50.75,1523536741.8473377
+key down,Replace,Numpad0,51.36,1523536742.4595234
+key down,Replace,Space,52.31,1523536743.4098332
+key down,Replace,Lshift,52.44,1523536743.542798
+key down,Replace,U,52.61,1523536743.7079854
+key down,Replace,S,52.76,1523536743.858777
+key down,Replace,D,52.95,1523536744.0474324
+key down,Replace,Tab,53.79,1523536744.8871207
+key down,Replace,Tab,54.15,1523536745.250068
+key down,Replace,Tab,54.57,1523536745.6726594
+key down,Replace,Tab,54.89,1523536745.9896677
+key down,Replace,Return,55.76,1523536746.8554993
+mouse left down,Replace,580,155,60.27,1523536751.3679562
+mouse left up,Replace,580,155,60.4,1523536751.5025105
+key down,hello - Notepad,Lcontrol,61.93,1523536753.0288374
+key down,hello - Notepad,S,62.39,1523536753.4900577
+mouse left down,hello - Notepad,205,60,67.65,1523536758.7523923
+mouse left up,hello - Notepad,205,60,67.83,1523536758.9265516
+key down,Save As,Lshift,71.43,1523536762.5271482
+key down,Save As,O,71.57,1523536762.673767
+key down,Save As,P,71.94,1523536763.0424573
+key down,Save As,T,72.33,1523536763.4337204
+key down,Save As,I,72.88,1523536763.9792466
+key down,Save As,S,73.24,1523536764.3385127
+key down,Save As,O,73.37,1523536764.465747
+key down,Save As,L,73.67,1523536764.7694507
+key down,Save As,Lshift,74.64,1523536765.7403042
+key down,Save As,Oem_Minus,74.92,1523536766.018718
+key down,Save As,Lshift,75.29,1523536766.388202
+key down,Save As,A,75.42,1523536766.5203066
+key down,Save As,P,75.67,1523536766.766578
+key down,Save As,R,75.98,1523536767.0825741
+key down,Save As,I,76.12,1523536767.2186894
+key down,Save As,L,76.81,1523536767.9053981
+key down,Save As,Numpad2,77.8,1523536768.8978934
+key down,Save As,Numpad0,78.16,1523536769.2615266
+key down,Save As,Numpad0,78.32,1523536769.4196424
+key down,Save As,Back,79.27,1523536770.368541
+key down,Save As,Numpad1,80.09,1523536771.1933055
+key down,Save As,Numpad8,80.35,1523536771.4465024
+key down,Save As,Return,81.65,1523536772.7453063
+mouse left down,Optisol_April2018 - Notepad,1158,32,83.89,1523536774.986983
+mouse left up,Optisol_April2018 - Notepad,1158,32,83.98,1523536775.083178
+mouse left down,Running applications,511,760,85.47,1523536776.5652854
+mouse left up,Running applications,511,760,85.6,1523536776.7001882
+mouse left down,Running applications,516,748,88.42,1523536779.5150948
+mouse left up,Running applications,516,748,88.53,1523536779.6303573
+mouse left down,history - Notepad,688,37,92.09,1523536783.189769
+mouse left up,history - Notepad,688,37,92.18,1523536783.2760787
+mouse left down,history - Notepad,688,37,92.26,1523536783.3560362
+mouse left up,history - Notepad,688,37,92.36,1523536783.462064
+mouse left down,history - Notepad,1333,11,122.14,1523536813.239155
+mouse left up,history - Notepad,1333,11,122.31,1523536813.4059281
+mouse left down,helloworld,1156,124,124.73,1523536815.8271167
+mouse left up,helloworld,1156,124,124.85,1523536815.9522038
+mouse left down,Downloads,1125,113,126.61,1523536817.7094991
+mouse left up,Downloads,1125,112,126.73,1523536817.8344138
+mouse left down,Spyder (Python 3.6),160,112,128.02,1523536819.120817
+mouse left up,Spyder (Python 3.6),160,112,128.14,1523536819.2359984
+mouse left down,Spyder (Python 3.6),290,262,137.27,1523536828.3682816
+mouse left up,Spyder (Python 3.6),290,262,137.45,1523536828.5523827
+key down,Spyder (Python 3.6),F5,138.69,1523536829.7863202
+mouse left down,Spyder (Python 3.6),1357,575,147.1,1523536838.2028048
+mouse left up,Spyder (Python 3.6),1357,607,147.83,1523536838.925829
+mouse left down,Spyder (Python 3.6),1312,113,156.81,1523536847.9140701
+mouse left up,Spyder (Python 3.6),1312,113,156.94,1523536848.0394688
+mouse left down,Spyder (Python 3.6),223,55,159.27,1523536850.3732471
+mouse left up,Spyder (Python 3.6),223,55,159.4,1523536850.499103
+mouse left down,Running applications,697,753,185.76,1523536876.862473
+mouse left up,Running applications,697,753,185.89,1523536876.988958
